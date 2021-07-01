@@ -1,0 +1,13 @@
+D:\c#\LeerJson\LeerJson\bin\Debug\LeerJson.exe.config
+D:\c#\LeerJson\LeerJson\bin\Debug\LeerJson.exe
+D:\c#\LeerJson\LeerJson\bin\Debug\LeerJson.pdb
+D:\c#\LeerJson\LeerJson\bin\Debug\Newtonsoft.Json.dll
+D:\c#\LeerJson\LeerJson\bin\Debug\Newtonsoft.Json.xml
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.csprojAssemblyReference.cache
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.Form1.resources
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.Properties.Resources.resources
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.csproj.GenerateResource.cache
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.csproj.CoreCompileInputs.cache
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.csproj.CopyComplete
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.exe
+D:\c#\LeerJson\LeerJson\obj\Debug\LeerJson.pdb
